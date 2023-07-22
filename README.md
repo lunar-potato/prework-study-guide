@@ -9,7 +9,7 @@ N/A
 
 ## Usage
 
-This prework study guide can be sused to know about certain topics like HTML, CSS, Git, and JavaScript. Also, opening the DevTools console, we can see the JavaScript running and this will list the topics learned from the prework and can choose one topic to study first. 
+This prework study guide can be used to know about certain topics like HTML, CSS, Git, and JavaScript. Also, opening the DevTools console, we can see the JavaScript running and this will list the topics learned from the prework and can choose one topic to study first. 
 
 ## Credits
 
